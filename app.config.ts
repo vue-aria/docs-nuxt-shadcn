@@ -17,7 +17,14 @@ export default defineAppConfig({
         light: '/logo.svg',
         dark: '/logo-dark.svg',
       },
-      nav: [],
+      nav: [{
+        title: 'Docs',
+        links: [{
+          title: 'Getting Started',
+          to: '/getting-started',
+          description: 'Start building your app with vue-aria',
+        }],
+      }],
       links: [{
         icon: 'lucide:github',
         to: 'https://github.com/wzc520pyfm/vue-aria',
