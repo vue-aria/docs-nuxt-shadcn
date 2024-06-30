@@ -10,7 +10,7 @@ actions:
     to: /getting-started
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: https://github.com/wzc520pyfm/vue-aria
     leftIcon: lucide:github
 announcement:
   title: Release v0.3.1
@@ -18,10 +18,10 @@ announcement:
   to: /getting-started
 ---
 #title
-Effortless and Beautiful\:brDocs Template.
+渐进式 Vue UI 库
 
 #description
-Beautifully designed Nuxt Content template with shadcn-vue.\:brCustomizable. Compatible. Open Source.
+极丰富的库和工具，可帮助您构建自适应、国际化、可访问且可靠的用户体验。
 ::
 
 ::div{.border.rounded-lg.shadow-md}
