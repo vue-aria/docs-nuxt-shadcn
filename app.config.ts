@@ -1,16 +1,16 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'shadcn-docs-nuxt',
-      description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
+      name: 'vue-aria-doc',
+      description: 'Progressive Vue UI Library.',
     },
     theme: {
-      customizable: true,
-      color: 'blue',
+      customizable: false,
+      color: 'zinc',
       radius: 0.5,
     },
     header: {
-      title: 'shadcn-docs-starter',
+      title: 'Vue Aria',
       showTitle: true,
       darkModeToggle: true,
       logo: {
@@ -20,7 +20,7 @@ export default defineAppConfig({
       nav: [],
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/wzc520pyfm/vue-aria',
         target: '_blank',
       }],
     },
@@ -36,7 +36,7 @@ export default defineAppConfig({
       credits: 'Copyright © 2024',
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/wzc520pyfm/vue-aria',
         target: '_blank',
       }],
     },
@@ -46,12 +46,12 @@ export default defineAppConfig({
       links: [{
         title: 'Star on GitHub',
         icon: 'lucide:star',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/wzc520pyfm/vue-aria',
         target: '_blank',
       }, {
         title: 'Create Issues',
         icon: 'lucide:circle-dot',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues',
+        to: 'https://github.com/wzc520pyfm/vue-aria/issues',
         target: '_blank',
       }],
     },
