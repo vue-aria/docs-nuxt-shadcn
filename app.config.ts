@@ -24,6 +24,12 @@ export default defineAppConfig({
           to: '/getting-started',
           description: 'Start building your app with vue-aria',
         }],
+      },{
+        title: 'Component',
+        links: [{
+          title: 'Button',
+          to: '/components/button',
+        }],
       }],
       links: [{
         icon: 'lucide:github',
