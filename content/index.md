@@ -14,7 +14,7 @@ actions:
     leftIcon: lucide:github
 announcement:
   title: WIP
-  icon: lucide:bell-dot
+  icon: noto:fire
   to: /getting-started
 ---
 #title
