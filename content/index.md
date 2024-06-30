@@ -13,8 +13,8 @@ actions:
     to: https://github.com/wzc520pyfm/vue-aria
     leftIcon: lucide:github
 announcement:
-  title: Release v0.3.1
-  icon: noto:party-popper
+  title: WIP
+  icon: lucide:bell-dot
   to: /getting-started
 ---
 #title
